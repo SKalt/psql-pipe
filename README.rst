@@ -18,7 +18,7 @@ psql-pipe
      :alt: Updates
 
 
-A CLI utility for copying postgres tables
+A command-line utility for copying postgres tables via psql and pg_dump
 
 
 * Free software: MIT license
@@ -37,4 +37,3 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
-
